@@ -1,0 +1,18 @@
+/* wallust placeholder - colors-swaync (rendered from the committed
+    palette, same theme as waybar's committed placeholder; wallust
+    overwrites this file at runtime via wallust.toml's swaync.target) */
+
+@define-color text #F9E3DF;
+@define-color background rgba(21,19,22,0.25);
+@define-color background-alt #151316;
+@define-color cursor #F9E3DF;
+@define-color hovered #7F4EA2;
+@define-color button-background #B2827B;
+@define-color button-active #191F64;
+@define-color border #211328;
+@define-color urgent #EECEC9;
+
+/* the names swaync's style.css additionally references */
+@define-color foreground #F9E3DF;
+@define-color color12 #7F4EA2;
+@define-color color1 #190E1E;
